@@ -3,6 +3,6 @@ hello-world
 
 mac first commit~yeah~
 
-wtf~
+wtf~hi~
 
 practice fetch
